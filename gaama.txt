@@ -6,4 +6,5 @@ hello Imran, how are you ?
 i am practising git commands.
 Today i started learning git and github.
 Hi everyone 
-Ravana was a king of Lanka
+Ravana was a king of Lanka.
+he is fan of salman khan.
