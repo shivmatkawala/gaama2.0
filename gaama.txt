@@ -1,12 +1,5 @@
 This is the first file created by me.
 Going to add second line.
-this is third line
-Adding 4th Line
-<<<<<<< HEAD
-hello ! i am irfan  
-=======
-hello Imran, how are you ?
-i am practising git commands.
-Today i started learning git and github.
-Hi everyone 
->>>>>>> f68fdfe66110f3ce50c17d8a7222257a7b505488
+this is third  line
+Adding 4th Line.
+i am ifan.
