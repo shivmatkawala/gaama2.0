@@ -8,4 +8,11 @@ Today i started learning git and github.
 Hi everyone 
 Ravana was a king of Lanka
 bob marley was a great singer
+<<<<<<< HEAD
 Mountains have a beautiful scenario.
+=======
+Mountains have a beautiful scenario.
+hello motto
+woww
+center of excellence
+>>>>>>> 4032ff55cfc1d8d3672287c8ce09050eac3b51a5
