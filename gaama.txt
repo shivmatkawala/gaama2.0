@@ -6,5 +6,6 @@ hello Imran, how are you ?
 i am practising git commands.
 Today i started learning git and github.
 Hi everyone 
-Ravana was a king of Lanka.
-he is fan of salman khan.
+Ravana was a king of Lanka
+bob marley was a great singer
+michael jackson was a  popular dancer.
