@@ -1,16 +1,3 @@
 This is the first file created by me.
 Going to add second line.
-<<<<<<< HEAD
-this is third  line
-Adding 4th Line.
-i am ifan.
-=======
-this is third line
-Adding 4th Line
-hello Imran, how are you ?
-i am practising git commands.
-Today i started learning git and github.
-Hi everyone 
-Ravana was a king of Lanka
-bob marley was a great singer
->>>>>>> 8d552a349a547e7ebb13480162b0db78dc0dcce6
+sharukh khan is king of bollywood
