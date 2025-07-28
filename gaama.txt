@@ -3,5 +3,7 @@ Going to add second line.
 this is third line
 Adding 4th Line
 hello Imran, how are you ?
-this is line 6
+i am practising git commands.
+Today i started learning git and github.
+Hi everyone 
 Ravana was a king of Lanka
