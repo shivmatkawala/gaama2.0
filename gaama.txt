@@ -1,11 +1,4 @@
 This is the first file created by me.
 Going to add second line.
-this is third line
-Adding 4th Line
-hello Imran, how are you ?
-i am practising git commands.
-Today i started learning git and github.
-Hi everyone 
-Ravana was a king of Lanka
-bob marley was a great singer
-Mountains have a beautiful scenario
+sharukh khan is king of bollywood
+hello ! i am irfan
